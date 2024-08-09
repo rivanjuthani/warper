@@ -46,3 +46,11 @@ Build & run the go binary:
 go build .
 ./warper
 ```
+
+## TODO
+- Proxy support
+- Clean up code to be more readable
+- Randomize device data
+- Add retry incase adding fails instead of skipping
+- Improve output
+- Add debug output option
