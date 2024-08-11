@@ -30,7 +30,7 @@ Example usage (not a valid referral link):
 First clone the repo & cd into the folder:
 
 ```bash
-git clone 
+git clone https://github.com/rivanjuthani/warper
 cd warper
 ```
 
